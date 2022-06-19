@@ -9,7 +9,7 @@ print(gender)
 
 crush = input("what is your crushs' name? ")
 print("LOL i knew " + gender + " Is your crush fr ")
-print("her phone number: 7733774499 Thank me later :) ")
+print("her phone number: 7693774499 Thank me later :) ")
 
 temp = input("Tell me whether in celcius ill convert it to farehiet even if u can use calculator :) ")
 tempfarenhiet = int(temp) + 273.15
