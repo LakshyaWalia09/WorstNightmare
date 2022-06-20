@@ -1,4 +1,4 @@
 # WorstNightmare
-Nothing bas time pass yay :D
 
-Ise bas PyScriptor ya fir IDE pe chalana, cmd promt crashes for some reason :)
+Please only run in either PyScriptor Or PyCharm
+Command Prompt Support _Not_ Coming Soon
