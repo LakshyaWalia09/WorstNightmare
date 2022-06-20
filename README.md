@@ -1,7 +1,7 @@
 # WorstNightmare
 
 ......................................................
-Please only run in either PyScriptor Or PyCharm;
+Please only run in either PyScriptor Or PyCharm
 ......................................................
 
 
