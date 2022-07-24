@@ -12,7 +12,7 @@ gender = input("What is your gender? ")
 print("Pride! you are " + gender )
 print(" ")
 
-temp = input("Tell me whether in celcius ill convert it to farehiet even if u can use calculator :) ")
+temp = input("Tell me weather in celcius ill convert it to farehiet even if u can use calculator :) ")
 tempfarenhiet = int(temp) + 273.15
 print("Temperature in Kalvin : " + str(tempfarenhiet) + " K")
 print(" ")
@@ -28,3 +28,7 @@ print("Sasta copyright : Lakshya Walia . com !")
 #Khatam karte hain
 print("")
 input('Press ENTER to exit kyunki isse jada main nhi kar raha :)')
+
+print("")
+input('Nahiii janaaa , firse ENTER Press kar confirm karne ke liye vro')
+
