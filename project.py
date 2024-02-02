@@ -9,7 +9,7 @@ print(agemult)
 print(" ")
 
 gender = input("What is your gender? ")
-print("Pride! you are " + gender )
+print("you are " + gender )
 print(" ")
 
 temp = input("Tell me weather in celcius ill convert it to farehiet even if u can use calculator :) ")
